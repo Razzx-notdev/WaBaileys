@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:kayzennotdev/bail"
+  "@whiskeysockets/baileys": "github:Razzx-notdev/WaBaileys"
 }
 ```
 ## Import
@@ -107,7 +107,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Kayzennotdev",
+      newsletterName: "Razzx-notdev",
       newsletterJid: "1@newsletter"
     }
   }
@@ -129,7 +129,7 @@ await client.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/kayzennotdev\"}"
+        buttonParamsJson: "{\"display_text\":\"Razzx\",\"url\":\"https://t.me/RazzxIsBack\"}"
       }
     ],
     priceAmount1000: 72502,
@@ -139,7 +139,7 @@ await client.relayMessage(m.chat, {
 ```
 ## Thanks For Support
 ```json
-kayzen - my self
+Razzx - my self
 Gupong - source my fork
 kiur - source baileys ( maybe )
 ```
